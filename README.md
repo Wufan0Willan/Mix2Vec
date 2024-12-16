@@ -5,4 +5,5 @@ The Domain-invariant Pretrained(DIP) frontend implementation based on fairseq an
 Our paper link is availiable(https://ieeexplore.ieee.org/document/10640238)
 
 The checkpoint of pretrained frontend is avaliable(https://drive.google.com/file/d/15_YZAF1MJs4VybuYM2FSsLQau_I0qir-/view?usp=drive_link)
+
 Please find the project at https://github.com/Wufan0Willan/DIP
